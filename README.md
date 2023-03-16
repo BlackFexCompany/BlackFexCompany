@@ -1,4 +1,4 @@
-### Hi there 👋
+![Logo](https://user-images.githubusercontent.com/112909348/225518172-d7873a68-4ec3-4306-a3c3-db52032ef9fe.png)
 
 <!--
 **BlackFexCompany/BlackFexCompany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
